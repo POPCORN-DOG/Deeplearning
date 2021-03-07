@@ -3,7 +3,7 @@
 
 ## Framework
 개발할 때 필요한 여러 요소들과 매뉴얼인 룰을 제공해주는 프로그램<br>
-대표적인 딥러닝 프로그래으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch
+대표적인 딥러닝 프로그으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch
 
 ## Pytorch (Define by Run)
 - 연산그래프를 만드는 동시에 값이 할당되는 방식으로 학습시키는 도중에 단계마다 조건을 바꿔줄 수 있는 동적 모델
