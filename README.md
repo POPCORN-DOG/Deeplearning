@@ -2,7 +2,7 @@
 파이토치 연습장
 
 ## Framework
-개발할 때 필요한 여러 요소들과 매뉴얼인 룰을 제공해주는 프로그램
+개발할 때 필요한 여러 요소들과 매뉴얼인 룰을 제공해주는 프로그램<br>
 대표적인 딥러닝 프로그래으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch
 
 ## Pytorch (Define by Run)
