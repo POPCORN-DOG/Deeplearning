@@ -4,7 +4,7 @@
 
 ## Framework
 개발할 때 필요한 여러 요소들과 매뉴얼인 룰을 제공해주는 프로그램<br>
-대표적으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch 라이브러리가 있다.
+대표적으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch가 있다.
 
 ## Pytorch (Define by Run)
 - Dynamic and runtime debugging
