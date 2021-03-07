@@ -1,7 +1,7 @@
 # PyTorch
 파이토치 연습장
 
-## 프레임 워크란?
+## Framework
 개발할 때 필요한 여러 요소들과 매뉴얼인 룰을 제공해주는 프로그램
 대표적으로 Google Brain의 Tensorflow / Facebook AI Research의 Pytorch
 
