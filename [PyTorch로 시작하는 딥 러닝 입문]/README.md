@@ -1,7 +1,7 @@
 # PyTorch로 시작하는 딥 러닝 입문
-https://wikidocs.net/book/2788
-![image](https://user-images.githubusercontent.com/79825411/112557291-7b58c180-8e0f-11eb-9ecf-8b41f7013d70.png)
-딥 러닝 프레임워크 PyTorch를 사용하여 딥 러닝에 입문하는 것을 목표로 합니다.
+![image](https://user-images.githubusercontent.com/79825411/112557291-7b58c180-8e0f-11eb-9ecf-8b41f7013d70.png)</br>
+https://wikidocs.net/book/2788</br>
+딥 러닝 프레임워크 PyTorch를 사용하여 딥 러닝에 입문하는 것을 목표로 합니다.</br>
 
 ## 1. torch
 - 메인 네임스페이스. 텐서 등의 다양한 수학 함수가 포함되어져 있으며 Numpy와 유사한 구조를 가진다.
