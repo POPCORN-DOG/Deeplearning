@@ -1,4 +1,4 @@
-# Pytorch VS Tensorflow
+# Pytorch vs Tensorflow
 
 "It's becoming clear that people use Tensorflow for work and Pytorch for fun"
 
