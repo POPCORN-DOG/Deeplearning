@@ -1,4 +1,4 @@
-# PyTorch 파이토치 연습장
+# Pytorch VS Tensorflow
 
 "It's becoming clear that people use Tensorflow for work and Pytorch for fun"
 
